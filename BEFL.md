@@ -3,7 +3,5 @@ title: "Projects"
 permalink: "/projects/"
 layout: page
 ---
-<audio>
-  <source src = /assets/audio/Death.m4a>
-</audio>
+[Death](/assets/audio/Death.m4a)
 
