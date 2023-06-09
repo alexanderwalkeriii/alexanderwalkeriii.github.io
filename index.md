@@ -2,7 +2,7 @@
 layout: page
 title: "Home"
 ---
-![](assets/images/Homepage.jpg width = 400)
+![](assets/images/Homepage.jpg width)
 
 I'm a recent law grad and incoming Rappaport Fellow at Harvard Law School. My research focuses on the implications language and linguistics have on the legal system and rigorous analysis of legal linguistic policy.
 
