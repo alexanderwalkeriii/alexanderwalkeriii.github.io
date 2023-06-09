@@ -2,9 +2,7 @@
 layout: page
 title: "Home"
 ---
-<p align="center">
-  <img src = assets/images/Homepage.jpg width = 400 >
-</p>
+![](assets/images/Homepage.jpg width = 400)
 
 I'm a recent law grad and incoming Rappaport Fellow at Harvard Law School. My research focuses on the implications language and linguistics have on the legal system and rigorous analysis of legal linguistic policy.
 
