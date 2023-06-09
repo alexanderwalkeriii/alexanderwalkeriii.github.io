@@ -4,8 +4,14 @@ permalink: "/writing/"
 layout: page
 ---
 
-## Current Projects
+## In Progress
+_Black English for Lawyers: A Primer_ (detailing basic principles of historical linguistics for a legal audience and providing explanations, examples, and audio of Black English for lawyers)
 
+_The Problem of Linguistic Mismatch_ (providing and analyzing the welfare and distributional effects of language choice in the courtroom)
+
+_The Notice Justification and Void-for-Vagueness_ (arguing that the notice justification for void-for-vagueness challenges makes little sense as currently conceived and that reframing vagueness as an empirical question has important consequences)
+
+_Black English and Private Transcription_ (testing the quality of private transcription services when it comes to Black English)
 
 
 ## Published Work
