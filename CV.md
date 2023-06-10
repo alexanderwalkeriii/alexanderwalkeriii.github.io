@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Contact & CV"
 permalink: "/cv/"
 layout: page
 ---
