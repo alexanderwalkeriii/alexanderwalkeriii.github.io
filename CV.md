@@ -5,4 +5,4 @@ layout: page
 ---
 [Here](CV.pdf) is my resume! Feel free to get in touch by the email icon at the bottom of the page.
 
-<img src="assets/images/Homepage.jpg" alt="drawing" width="400">
+<img src="/images/Homepage.jpg" alt="" width="400">
