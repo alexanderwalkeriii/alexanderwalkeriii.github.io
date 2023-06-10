@@ -9,4 +9,3 @@ I'm a recent law grad and incoming Rappaport Fellow at Harvard Law School. My re
 I love teaching, having taught high school Spanish in Atlanta where I grew up and always having a blast learning with the folks at [Harlem Clemente](https://harlemclemente.org/). In college at Columbia University, I studied Political Science, Economics, and Linguistics, focusing on the relationship between the Ainu language and Japanese. Unsurprisingly, I'm a langauge nerd (my current project is ʻŌlelo Hawaiʻi).
 
 <img src="assets/images/Headshot.jpg" alt="drawing" width="400">
-<img src="assets/images/Homepage.jpg" alt="drawing" width="400">
