@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index", title: Home}
-  - {file: "writing", title: Writing}
-  - {file: "projects", title: Projects}
-  - {file: "about", title: Contact & CV}
+  - {file: "index", title: Home, url = '/'}
+  - {file: "writing", title: Writing, url = '/writing'}
+  - {file: "projects", title: Projects, url = '/projects'}
+  - {file: "about", title: Contact & CV, url = '/about'}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lwalker@law.harvard.edu"}
