@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Home.md", title: Home}
+  - {file: "index.md", title: Home}
   - {file: "Writing.md", title: Writing}
   - {file: "Projects.md", title: Projects}
   - {file: "CV.md", title: Contact & CV}
@@ -34,7 +34,7 @@ plugins:
 
 collections:
   pages:
-    - Home.md
+    - index.md
     - Writing.md
     - Projects.md
     - Black-English.md
