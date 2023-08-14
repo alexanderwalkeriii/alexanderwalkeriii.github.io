@@ -17,9 +17,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
-  - {file: "Writing.md", title: Writing}
-  - {file: "Projects.md", title: Projects}
-  - {file: "CV.md", title: Contact & CV}
+  - {file: "writing.md", title: Writing}
+  - {file: "projects.md", title: Projects}
+  - {file: "about.md", title: Contact & CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lwalker@law.harvard.edu"}
@@ -35,7 +35,7 @@ plugins:
 collections:
   pages:
     - index.md
-    - Writing.md
-    - Projects.md
-    - Black-English.md
-    - CV.md
+    - writing.md
+    - projects.md
+    - black-english.md
+    - about.md
