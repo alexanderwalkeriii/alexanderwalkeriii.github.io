@@ -31,3 +31,11 @@ comments:
 
 plugins:
  - jekyll-feed
+
+collections:
+  pages:
+    - Home.md
+    - Writing.md
+    - Projects.md
+    - black-english.md
+    - CV.md
