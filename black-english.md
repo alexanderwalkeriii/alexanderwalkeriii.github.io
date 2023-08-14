@@ -6,18 +6,18 @@ permalink: /projects/black-english/
 
 ## Pin-Pen Merger
 
-[Pin](/audio/pin.mp3)
+[Pin](assets/audio/Death.m4a)
 
-[Pen](/audio/pen.mp3)
+[Pen](assets/audio/pen.mp3)
 
 ## Feel-Fill Merger  
 
-[Feel](/audio/feel.mp3)
+[Feel](assets/audio/feel.mp3)
 
-[Fill](/audio/fill.mp3)
+[Fill](assets/audio/fill.mp3)
 
 ## Habitual "be"
 
-[Example 1](/audio/habitual1.mp3)
+[Example 1](assets/audio/habitual1.mp3)
 
-[Example 2](/audio/habitual2.mp3)
+[Example 2](assets/audio/habitual2.mp3)
