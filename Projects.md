@@ -11,17 +11,7 @@ permalink: /projects/
 <h2><a href="/black-english/">Black English for Lawyers</a></h2>
 
 <p>
-  Black English is often misunderstood in the legal system. I wrote an introduction to Black English for lawyers to help reduce issues of miscommunication.
+  Black English is misunderstood by lawyers, and that needs to change. This is the online companion to a paper I am working on. It aims to serve as an audio resource so that learners can not only read but also hear specific features of Black English. 
 </p>
 
-<h2>Other Project</h2>
 
-<p>
-  Description of another project here.
-</p>
-
-<h2>Another Project</h2>
-
-<p>
-  Description of third project here.
-</p>
