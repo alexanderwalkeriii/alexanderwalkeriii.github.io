@@ -5,9 +5,9 @@ permalink: /projects/black-english/
 ---
 
 ## Sounds
-Consonance with the /v/ sound: [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3){#target="_blank"}
-
 `<can't>` rhyming with `<ain't>`: [Coolio - Gangsta's Paradise](assets/audio/5.mp3){#target="_blank"}; [J. Cole - G.O.M.D.](assets/audio/18.mp3){#target="_blank"}
+
+Consonance with the /v/ sound: [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3){#target="_blank"}
 
 Consonant Reduction:
 - [Morgan Freeman in NatGeo's _Creation_](assets/audio/7.mp3){#target="_blank"}. Listen to the ends of the words `<old>` and `<undernourished>`, note that this is relatively careful speech and it still happens.
