@@ -3,7 +3,7 @@ layout: page
 title: "Black English for Lawyers" 
 permalink: /projects/black-english/
 ---
-
+<base target = "_blank">
 ## Sounds
 `<can't>` rhyming with `<ain't>`: 
 - [Coolio - Gangsta's Paradise](assets/audio/5.mp3)
