@@ -4,12 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-<h1>Projects</h1>
-
 ## [Black English for Lawyers (Under Construction)](/projects/black-english/)
 
 <p>
-  Black English is misunderstood by lawyers, and that needs to change. This is the online companion to a paper I am working on. It aims to serve as an audio resource so that learners can not only read but also hear specific features of Black English. 
+  An online repository of audio recordings of Black English collected from the internet and live sources. A companion to my paper _Black English for Lawyers: A Primer_ that aims to make accessible some of the linguistic features of Black English for a legal audience.
 </p>
 
 
