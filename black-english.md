@@ -23,5 +23,5 @@ permalink: /projects/black-english/
 [Example 2](assets/audio/habitual2.mp3)
 
 ## The <-ass> Suffix
-[2 Chainz - No Lie](assets/audio/2 Chainz - No Lie (Feat. Drake) - dead-ass.mp3)
+[2 Chainz - No Lie](assets/audio/2%20Chainz%20-%20No%20Lie%20(Feat.%20Drake)%20-%20dead-ass.mp3)
 
