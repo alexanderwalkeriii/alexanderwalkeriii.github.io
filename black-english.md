@@ -9,7 +9,8 @@ permalink: /projects/black-english/
 - [Coolio - Gangsta's Paradise](assets/audio/5.mp3)
 - [J. Cole - G.O.M.D.](assets/audio/18.mp3)
 
-Consonance with the /v/ sound: [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3)
+Consonance with the /v/ sound: 
+- [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3)
 
 Consonant Reduction:
 - [Morgan Freeman in NatGeo's _Creation_](assets/audio/7.mp3). Listen to the ends of the words `<old>` and `<undernourished>`, note that this is relatively careful speech and it still happens.
@@ -19,13 +20,17 @@ Consonant Reduction:
 
 Glottal Stops for Consonants even in Careful Speech: Here is Atlanta [Mayor Dickens](assets/audio/41.mp3) (note `<ground>`, `<project>`, `<heart>`, `<downtown>`, and `<Atlanta>`)
 
-`<I'on>` for "I don't": [J. Cole - G.O.M.D.](assets/audio/17.mp3)
+`<I'on>` for "I don't": 
+- [J. Cole - G.O.M.D.](assets/audio/17.mp3)
 
-Reduction of `<ain't>`: [J. Cole - Middle Child](assets/audio/20.mp3)
+Reduction of `<ain't>`: 
+- [J. Cole - Middle Child](assets/audio/20.mp3)
 
-The feel-fill merger: [J. Cole - Middle Child](assets/audio/21.mp3), [again from the same song](assets/audio/22.mp3)
+The feel-fill merger: 
+- [J. Cole - Middle Child](assets/audio/21.mp3), [again from the same song](assets/audio/22.mp3)
 
-R-lessness: [Al Sharpton's `<order>`](assets/audio/14.mp3)
+R-lessness: 
+- [Al Sharpton's `<order>`](assets/audio/14.mp3)
 
 `<man>` & `<ma'am>` near homophones: [J. Cole - Work Out](assets/audio/24.mp3)
 
@@ -48,7 +53,8 @@ R-lessness: [Al Sharpton's `<order>`](assets/audio/14.mp3)
 
 [Trippie Redd (feat. Lil Uzi Vert) – Holy Smokes](assets/audio/39.mp3)
 
-Emphatic version `<stay>`: [E-40 - Choices (Yup)](assets/audio/9.mp3)
+Emphatic version `<stay>`: 
+- [E-40 - Choices (Yup)](assets/audio/9.mp3)
 
 
 ## Negation
