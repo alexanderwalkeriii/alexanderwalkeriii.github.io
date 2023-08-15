@@ -5,7 +5,9 @@ permalink: /projects/black-english/
 ---
 
 ## Sounds
-`<can't>` rhyming with `<ain't>`: [Coolio - Gangsta's Paradise](assets/audio/5.mp3); [J. Cole - G.O.M.D.](assets/audio/18.mp3)
+`<can't>` rhyming with `<ain't>`: 
+- [Coolio - Gangsta's Paradise](assets/audio/5.mp3)
+- [J. Cole - G.O.M.D.](assets/audio/18.mp3)
 
 Consonance with the /v/ sound: [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3)
 
