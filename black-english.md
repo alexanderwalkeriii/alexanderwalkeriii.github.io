@@ -6,18 +6,18 @@ permalink: /projects/black-english/
 <base target = "_blank">
 
 ## Sounds
+Consonant Reduction:
+- [Morgan Freeman in NatGeo's _Creation_](assets/audio/7.mp3). Listen to the ends of the words `<old>` and `<undernourished>`, note that this is relatively careful speech and it still happens.
+- [Al Sharpton at Jordan Neely's Funeral](assets/audio/11.mp3). Note `<behind>`, this clip also exhibits some monophthongizaton.
+- [Al Sharpton's `<chokehold>`](assets/audio/12.mp3)
+- Attorney Benjamin Crump speaking to the press about [Tyre Nichols](assets/audio/40.mp3). Note the pronunciation of `<trust>`.
+
 `<can't>` rhyming with `<ain't>`: 
 - [Coolio - Gangsta's Paradise](assets/audio/5.mp3)
 - [J. Cole - G.O.M.D.](assets/audio/18.mp3)
 
 Consonance with the /v/ sound: 
 - [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3)
-
-Consonant Reduction:
-- [Morgan Freeman in NatGeo's _Creation_](assets/audio/7.mp3). Listen to the ends of the words `<old>` and `<undernourished>`, note that this is relatively careful speech and it still happens.
-- [Al Sharpton at Jordan Neely's Funeral](assets/audio/11.mp3). Note `<behind>`, this clip also exhibits some monophthongizaton.
-- [Al Sharpton's `<chokehold>`](assets/audio/12.mp3)
-- Attorney Benjamin Crump speaking to the press about [Tyre Nichols](assets/audio/40.mp3). Note the pronunciation of `<trust>`.
 
 Glottal Stops for Consonants even in Careful Speech: Here is Atlanta [Mayor Dickens](assets/audio/41.mp3) (note `<ground>`, `<project>`, `<heart>`, `<downtown>`, and `<Atlanta>`)
 
