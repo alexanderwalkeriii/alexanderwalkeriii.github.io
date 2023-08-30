@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## In Progress
-_Black English for Lawyers: A Primer_ (detailing basic principles of historical linguistics for a legal audience and providing explanations, examples, and audio of Black English for lawyers)
+[_Black English for Lawyers: A Primer_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556233) (providing explanations, examples, and audio of Black English for lawyers to alleviate dialectal misinterpretation)
 
 _The Problem of Linguistic Mismatch_ (providing and analyzing the welfare and distributional effects of language choice in the courtroom)
 
