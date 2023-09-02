@@ -18,6 +18,10 @@ Consonant Reduction:
 - [J. Cole - G.O.M.D.](assets/audio/18.mp3)
 
 
+`<man>` sounding like `<main>`
+- [They Cloned Tyrone](assets/audio/48.mp3)
+
+
 Consonance with the /v/ sound: 
 - [A Boogie Wit da Hoodie - No Comparison](assets/audio/3.mp3)
 
@@ -41,7 +45,12 @@ R-lessness:
 - [Al Sharpton's `<order>`](assets/audio/14.mp3)
 
 
-`<man>` & `<ma'am>` as near homophones: [J. Cole - Work Out](assets/audio/24.mp3)
+`<man>` & `<ma'am>` as near homophones: 
+- [J. Cole - Work Out](assets/audio/24.mp3)
+
+
+/skr/ sound for /str/ sound: 
+- [They Cloned Tyrone](assets/audio/49.mp3)
 
 
 
@@ -51,7 +60,14 @@ R-lessness:
 
 
 ## Existential `<it>`, `<they>`, and `<go>`
+[They Cloned Tyrone](assets/audio/44.mp3)
+
 [Nipsey Hussle (feat. YG) - Last Time that I Checc'd](assets/audio/33.mp3)
+
+
+
+## Narrative `<had>`
+[They Cloned Tyrone](assets/audio/47.mp3)
 
 
 
@@ -118,15 +134,34 @@ Emphatic version `<stay>`:
 
 
 
+## `<nigga>` in reference to a white person
+[They Cloned Tyrone](assets/audio/50.mp3)
+
+
+
 ## `<a nigga>` meaning "I" or "Me"
+[They Cloned Tyrone](assets/audio/42.mp3)
+
+
 [Cordae - Bad Idea](assets/audio/6.mp3)
 
 
 [Kendrick Lamar (feat. Taylour Paige) - We Cry Together](assets/audio/28.mp3)
 
 
+[They Cloned Tyrone](assets/audio/43.mp3). This is a humorous extension of `<a nigga>` to `<a>` plus any self-describing noun (in this case, `<pimp>` becaues the character in the movie is, in fact, a pimp). 
+
+
+## `<bitch>` as a humorous location
+[They Cloned Tyrone](assets/audio/46.mp3)
+
+
+
 
 ## The `<-ass>` Suffix
+[They Cloned Tyrone](assets/audio/45.mp3).
+
+
 [2 Chainz - No Lie](assets/audio/1.mp3). Compare that with [Sydney Renae - How You Gonna](assets/audio/16.mp3) where she uses the unsuffixed word `<deadass>`.
 
 
