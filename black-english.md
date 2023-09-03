@@ -135,7 +135,7 @@ Emphatic version `<stay>`:
 
 
 ## `<nigga>` in reference to a white person
-[They Cloned Tyrone](assets/audio/50.mp3)
+[They Cloned Tyrone](assets/audio/50.mp3). Note that `<coon>` in Black English is a complicated term. In general Southern English it is a recognized ethnic slur referring to white people of Cajun descent (that is, like `<nigga>`, often reclaimed and used by the very people it has been used to degrade). In Black English, `<coon>` can also derogatorily refer to a black person who "plays the coon," that is, fulfills the stereotype of a black fool (think minstrel shows) for an audience, especially one that includes white people. The conversation here juxtaposes the use of `<coon>` for black people, and `<nigga>` for white people. 
 
 
 
@@ -153,7 +153,7 @@ Emphatic version `<stay>`:
 
 
 ## `<bitch>` as a humorous location
-[They Cloned Tyrone](assets/audio/46.mp3)
+[They Cloned Tyrone](assets/audio/46.mp3). The context is that they have just walked into a creepy house (hence the creaking of the floorboards), and she is saying that the interior of the house, despite being creepy, is kind of nice and has "good bones."
 
 
 
