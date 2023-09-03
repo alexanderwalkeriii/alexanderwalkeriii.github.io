@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:lwalker@law.harvard.edu"}
-  - {title: SSRN, icon: newspaper, url: ""}
+  - {title: SSRN, icon: newspaper, url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6038206"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
