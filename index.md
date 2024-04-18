@@ -8,6 +8,6 @@ I'm the [Rappaport Fellow](https://hls.harvard.edu/academics/fellowships-and-pri
 
 Aside from my research, I help represent asylum seekers. I also do policy work in the law and neuroscience space with the [Center for Law, Brain & Behavior](https://clbb.mgh.harvard.edu/) in conjunction with Mass General Hospital as a Fellow in Law and Applied Neuroscience.
 
-I love teaching, having taught high school Spanish in Atlanta where I grew up and always having a blast learning with the folks at [Harlem Clemente](https://harlemclemente.org/). In college at Columbia University, I studied Political Science, Economics, and Linguistics, focusing on the relationship between the [Ainu](https://en.unesco.org/courier/numero-especial-octubre-2009/saga-ainu-language) language and Japanese. Unsurprisingly, I'm a language nerd (my current fixation is ʻŌlelo Hawaiʻi!).
+I love teaching, having taught high school Spanish in Atlanta where I grew up and always having a blast learning with the folks at [Harlem Clemente](https://harlemclemente.org/). In college at Columbia University, I studied Political Science, Economics, and Linguistics, focusing on the relationship between the [Ainu](https://courier.unesco.org/en/articles/saga-ainu-language) language and Japanese. Unsurprisingly, I'm a language nerd (my current fixation is ʻŌlelo Hawaiʻi!).
 
 <img src="assets/images/Headshot.jpg" alt="Headshot" width="400">
