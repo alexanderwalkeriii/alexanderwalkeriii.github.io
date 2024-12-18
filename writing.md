@@ -9,7 +9,7 @@ layout: page
 
 _The Problem of Linguistic Mismatch_ (providing and analyzing the welfare and distributional effects of language choice in the courtroom)
 
-_The Notice Justification and Void-for-Vagueness_ (arguing that the notice justification for void-for-vagueness challenges makes little sense as currently conceived and that reframing vagueness as an empirical question has important consequences)
+_Vagueness_ (arguing that certain legal doctrines like the rule of lenity and void-for-vagueness have implicit and incorrect linguistic theories baked in)
 
 _Black English and Private Transcription_ (testing the quality of private transcription services when it comes to Black English)
 
