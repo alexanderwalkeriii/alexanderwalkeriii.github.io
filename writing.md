@@ -5,14 +5,9 @@ layout: page
 ---
 
 ## In Progress
-[_Black English for Lawyers: A Primer_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556233), 113 CALIF. L. REV. __ (forthcoming 2025)  (providing explanations, examples, and audio of Black English for lawyers to alleviate dialectal misinterpretation)
+_Assessing Verbatim Private Transcription Quality of Black and Standard American English_, _in_ LANGUAGE AND JUSTICE (Kate Haworth & Tatiana Grieshofer eds., Cambridge University Press, forthcoming 2025) (linguistics), presented to 2024 Evidence Summer Workshop under different title
 
-_The Problem of Linguistic Mismatch_ (providing and analyzing the welfare and distributional effects of language choice in the courtroom)
-
-_Vagueness_ (arguing that certain legal doctrines like the rule of lenity and void-for-vagueness have implicit and incorrect linguistic theories baked in)
-
-_Black English and Private Transcription_ (testing the quality of private transcription services when it comes to Black English)
-
+[_Black English for Lawyers: A Primer_](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4556233), 113 CALIF. L. REV. __ (forthcoming 2025)
 
 ## Published Work
 [_On Taboos, Morality, and_ Bluebook _Citations_](https://harvardlawreview.org/blog/2023/06/on-taboos-morality-and-bluebook-citations/), HARV. L. REV. BLOG (Jun. 2023)
