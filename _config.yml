@@ -18,7 +18,6 @@ minimal: true             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index", title: Home, url: '/'}
   - {file: "writing", title: Writing, url: '/writing'}
-  - {file: "projects", title: Projects, url: '/projects'}
   - {file: "about", title: Contact & CV, url: '/about'}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
@@ -36,6 +35,4 @@ collections:
   pages:
     - index.md
     - writing.md
-    - projects.md
-    - black-english.md
     - about.md
