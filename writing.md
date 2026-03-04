@@ -10,8 +10,8 @@ layout: page
 
 ## Published Work
 
-[_Evidence and Assessing Verbatim Transcription Quality of Black English and Standard American English
-_](https://www.cambridge.org/core/books/language-and-justice/evidence-and-assessing-verbatim-transcription-quality-of-black-english-and-standard-american-english/ECE100949B1E8BD3AB3234F2240696F3), _in_ LANGUAGE AND JUSTICE (Tatiana Grieshofer & Kate Haworth eds., Cambridge University Press, 2026)
+[_Evidence and Assessing Verbatim Transcription Quality of Black English and Standard American English_
+](https://www.cambridge.org/core/books/language-and-justice/evidence-and-assessing-verbatim-transcription-quality-of-black-english-and-standard-american-english/ECE100949B1E8BD3AB3234F2240696F3), _in_ LANGUAGE AND JUSTICE (Tatiana Grieshofer & Kate Haworth eds., Cambridge University Press, 2026)
 
 [_Black English for Lawyers: A Primer_](https://www.californialawreview.org/print/black-english), 113 CALIF. L. REV. 81 ( 2025)
 
