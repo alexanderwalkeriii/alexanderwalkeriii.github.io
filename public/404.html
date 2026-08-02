@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // Encode the full path as a query param and redirect to index.html.
+      // React Router restores the URL on load via the script in root.tsx.
+      var path = location.pathname + location.search + location.hash
+      var redirectUrl =
+        location.origin + "/?p=" + encodeURIComponent(path)
+      location.replace(redirectUrl)
+    </script>
+  </head>
+  <body></body>
+</html>

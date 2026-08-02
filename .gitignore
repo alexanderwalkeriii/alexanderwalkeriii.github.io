@@ -1,7 +1,7 @@
 .DS_Store
-.bundle
-.jekyll-cache
-.sass-cache
-Gemfile.lock
-_site
-*.gem
+.env
+/node_modules/
+
+# React Router
+/.react-router/
+/build/
