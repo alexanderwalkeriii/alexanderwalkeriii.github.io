@@ -90,7 +90,7 @@ export const publications: Publication[] = [
 ]
 
 export const teachingStatement: RichText =
-  "The law school courses I have taught are below."
+  "The law school courses I have taught are below!"
 
 export const courses: Course[] = [
   {
