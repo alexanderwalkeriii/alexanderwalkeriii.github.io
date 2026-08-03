@@ -4,8 +4,8 @@ import type { Course, Publication, RichText } from "~/types/portfolio"
 
 export const person = {
   name: "Leonard Alexander Walker III",
-  title: "",
-  subtitle: "Immigration & Racial Justice Law",
+  title: "NYC Lawyer",
+  subtitle: "Fellow interested in Interpretation and Legal Structure",
   /** Displayed at the bottom of the sidebar. Use \n for line breaks. */
   marketStatus: "On the entry-level\nteaching market, 2026–27\n\n云泥之差别不太大",
   bio: [
@@ -41,12 +41,12 @@ export const research = {
     { text: "here", href: "https://harvardlawreview.org/print/vol-136/dialectal-due-process/" }, 
     " that failures in the judicial system to account for dialectal differences in English are cognizable as due process issues. And ", 
     { text: "here", href: "https://www.californialawreview.org/print/black-english" }, 
-    " I made a guide and described best practices for lawyers dealing with nonstandard English varieties in their practices. When it comes to internal legal interpretation, I am drawn to issues that consider the role of normativity, intent, and the relationship between the past and present as interpretive authority."
+    " I made a guide and described best practices for lawyers dealing with nonstandard English varieties in their practices. When it comes to internal legal interpretation, I am drawn to issues that consider the role of normativity, intent, common law, and the relationship between the past and present as interpretive authority. I take a broad, somewhat philological view of interpretation, and apply it to literal texts and systems."
   ],
   pillars: [
-    { label: "Pillar I", title: "Language & Due Process" },
-    { label: "Pillar II", title: "Legal Linguistics for Practitioners" },
-    { label: "Pillar III", title: "Race, Language & the Criminal System" },
+    { label: "Pillar I", title: "Internal Legal Interpretation" },
+    { label: "Pillar II", title: "External Legal Interpretation" },
+    { label: "Pillar III", title: "The Common Law-Public Law Connection" },
   ],
 }
 
