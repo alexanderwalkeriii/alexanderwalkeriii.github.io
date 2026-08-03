@@ -99,7 +99,7 @@ export const courses: Course[] = [
     term: "Fall",
     year: "2025 & 2026",
     description: "In this course, students learn how to read and analyze U.S. case law and how to understand case law within the federalist, common-law system. Students also learn effective legal research techniques and writing skills, including common U.S. citation requirements.",
-  }
+  },
   {
     title: "Language and the Law: Beyond the Canons",
     institution: "Harvard Law School",
