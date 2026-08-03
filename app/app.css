@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-serif: "Source Serif 4", Georgia, serif;
+
+  /* Warm off-white page background */
+  --color-page: oklch(97% 0.012 75);
+  /* Divider lines */
+  --color-border: oklch(87% 0.01 75);
+  --color-border-soft: oklch(90% 0.01 75);
+  /* Dark maroon accent (section numbers, labels) */
+  --color-accent: oklch(35% 0.12 25);
+  --color-accent-dark: oklch(28% 0.13 25);
+  /* Inline body links — lighter and more saturated so they stand out against dark body text */
+  --color-link: oklch(50% 0.2 25);
+  --color-link-hover: oklch(40% 0.2 25);
+  /* Text scale: ink → ink-2 → ink-3 → ink-4 (lightest) */
+  --color-ink: oklch(20% 0.012 75);
+  --color-ink-2: oklch(40% 0.012 75);
+  --color-ink-3: oklch(45% 0.012 75);
+  --color-ink-4: oklch(55% 0.012 75);
+}
+
+html,
+body {
+  background: var(--color-page);
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+::selection {
+  background: oklch(85% 0.06 25);
+}
