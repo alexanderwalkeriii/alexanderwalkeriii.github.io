@@ -3,7 +3,7 @@
 import type { Course, Publication, RichText } from "~/types/portfolio"
 
 export const person = {
-  name: "Leonard Alexander Walker III",
+  name: "Leonard Alexander Walker III ~ 'alex walker'",
   title: "NYC Lawyer",
   subtitle: "Fellow interested in Interpretation and Legal Structure",
   /** Displayed at the bottom of the sidebar. Use \n for line breaks. */
