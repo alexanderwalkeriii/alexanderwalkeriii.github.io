@@ -2,7 +2,7 @@ import { nav, person } from "~/data/portfolio"
 
 /** Fixed left sidebar with name, role, navigation, and market status. */
 const Sidebar = () => (
-  <aside className="shrink-0 basis-75 min-w-65 sticky top-0 self-start h-screen flex flex-col justify-between border-r border-border pt-16 pr-10 pb-10 pl-12">
+  <aside className="hidden md:flex shrink-0 basis-75 min-w-65 sticky top-0 self-start h-screen flex-col justify-between border-r border-border pt-16 pr-10 pb-10 pl-12">
     <div>
       <div className="font-serif text-[15px] tracking-[0.08em] uppercase text-accent mb-1.5">
         {person.name}

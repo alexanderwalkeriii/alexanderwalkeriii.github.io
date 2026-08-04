@@ -2,6 +2,7 @@ import { Fragment } from "react"
 import headshotUrl from "~/assets/images/Headshot.jpg"
 import type { Route } from "./+types/home"
 import { Sidebar } from "~/components/Sidebar"
+import { MobileHeader } from "~/components/MobileHeader"
 import type { RichText } from "~/types/portfolio"
 import {
   contact,
@@ -45,18 +46,19 @@ export const meta = (_: Route.MetaArgs) => [
 ]
 
 const Home = () => (
-  <div className="flex flex-nowrap max-w-350 mx-auto font-serif text-ink bg-page">
+  <div className="flex flex-col md:flex-row md:flex-nowrap max-w-350 mx-auto font-serif text-ink bg-page">
+    <MobileHeader />
     <Sidebar />
 
-    <main className="flex-1 min-w-85">
+    <main className="flex-1 min-w-0 md:min-w-85">
 
       {/* ── HOME ── */}
       <section
         id="home"
-        className="pt-24 px-16 pb-22 border-b border-border flex flex-wrap gap-14 items-start"
+        className="scroll-mt-14 md:scroll-mt-0 pt-12 px-5 pb-12 md:pt-24 md:px-16 md:pb-22 border-b border-border flex flex-wrap gap-8 md:gap-14 items-start"
       >
         <div className="grow basis-95 min-w-70">
-          <h1 className="text-[44px] font-medium leading-[1.15] m-0 mb-5">{person.name}</h1>
+          <h1 className="text-[30px] md:text-[44px] font-medium leading-[1.15] m-0 mb-5">{person.name}</h1>
           <p className="font-sans text-[15px] text-ink-2 leading-[1.7] max-w-[70ch] mb-7">
             {rt(person.bio)}
           </p>
@@ -72,15 +74,15 @@ const Home = () => (
         <img
           src={headshotUrl}
           alt={`Portrait of ${person.name}`}
-          className="shrink-0 w-55 h-65 object-cover object-top"
+          className="shrink-0 w-36 h-44 md:w-55 md:h-65 object-cover object-top"
         />
       </section>
 
       {/* ── RESEARCH ── */}
-      <section id="research" className="py-20 px-16 border-b border-border">
+      <section id="research" className="scroll-mt-14 md:scroll-mt-0 py-12 px-5 md:py-20 md:px-16 border-b border-border">
         <div className="flex gap-6 items-baseline mb-9">
           <span className="text-[15px] text-accent font-medium">01</span>
-          <h2 className="text-[26px] font-medium m-0">Research Agenda</h2>
+          <h2 className="text-[21px] md:text-[26px] font-medium m-0">Research Agenda</h2>
         </div>
         <p className="font-sans text-[15px] text-ink-2 leading-[1.75] max-w-[64ch] mb-12">
           {rt(research.agenda)}
@@ -101,16 +103,16 @@ const Home = () => (
       </section>
 
       {/* ── PUBLICATIONS ── */}
-      <section id="publications" className="py-20 px-16 border-b border-border">
+      <section id="publications" className="scroll-mt-14 md:scroll-mt-0 py-12 px-5 md:py-20 md:px-16 border-b border-border">
         <div className="flex gap-6 items-baseline mb-11">
           <span className="text-[15px] text-accent font-medium">02</span>
-          <h2 className="text-[26px] font-medium m-0">Publications</h2>
+          <h2 className="text-[21px] md:text-[26px] font-medium m-0">Publications</h2>
         </div>
         <div>
           {publications.map((pub, i) => (
             <div
               key={i}
-              className="flex gap-7 pb-9 mb-9 border-b border-border-soft"
+              className="flex gap-5 md:gap-7 pb-9 mb-9 border-b border-border-soft"
             >
               <div className="shrink-0 basis-16 font-sans text-[14px] text-ink-3 pt-0.5">
                 {pub.year}
@@ -122,12 +124,12 @@ const Home = () => (
                 {pub.href ? (
                   <a
                     href={pub.href}
-                    className="block text-[19px] leading-[1.4] mb-2 text-ink underline underline-offset-2 hover:text-accent"
+                    className="block text-[17px] md:text-[19px] leading-[1.4] mb-2 text-ink underline underline-offset-2 hover:text-accent"
                   >
                     {pub.title}
                   </a>
                 ) : (
-                  <div className="text-[19px] leading-[1.4] mb-2">{pub.title}</div>
+                  <div className="text-[17px] md:text-[19px] leading-[1.4] mb-2">{pub.title}</div>
                 )}
                 <div className="font-sans text-[13px] text-ink-3 mb-2.5">{pub.venue}</div>
                 <p className="font-sans text-[14px] text-ink-2 leading-[1.65] max-w-[62ch] m-0">
@@ -140,10 +142,10 @@ const Home = () => (
       </section>
 
       {/* ── TEACHING ── */}
-      <section id="teaching" className="py-20 px-16 border-b border-border">
+      <section id="teaching" className="scroll-mt-14 md:scroll-mt-0 py-12 px-5 md:py-20 md:px-16 border-b border-border">
         <div className="flex gap-6 items-baseline mb-9">
           <span className="text-[15px] text-accent font-medium">03</span>
-          <h2 className="text-[26px] font-medium m-0">Teaching</h2>
+          <h2 className="text-[21px] md:text-[26px] font-medium m-0">Teaching</h2>
         </div>
         <p className="font-sans text-[15px] text-ink-2 leading-[1.75] max-w-[64ch] mb-10">
           {rt(teachingStatement)}
@@ -182,11 +184,11 @@ const Home = () => (
       {/* ── CV ── */}
       <section
         id="cv"
-        className="py-20 px-16 border-b border-border flex items-center justify-between flex-wrap gap-6"
+        className="scroll-mt-14 md:scroll-mt-0 py-12 px-5 md:py-20 md:px-16 border-b border-border flex items-center justify-between flex-wrap gap-6"
       >
         <div className="flex gap-6 items-baseline">
           <span className="text-[15px] text-accent font-medium">04</span>
-          <h2 className="text-[26px] font-medium m-0">Curriculum Vitae</h2>
+          <h2 className="text-[21px] md:text-[26px] font-medium m-0">Curriculum Vitae</h2>
         </div>
         <a
           href={cvUrl}
@@ -197,10 +199,10 @@ const Home = () => (
       </section>
 
       {/* ── CONTACT ── */}
-      <section id="contact" className="pt-20 pb-30 px-16">
+      <section id="contact" className="scroll-mt-14 md:scroll-mt-0 pt-12 pb-16 px-5 md:pt-20 md:pb-30 md:px-16">
         <div className="flex gap-6 items-baseline mb-7">
           <span className="text-[15px] text-accent font-medium">06</span>
-          <h2 className="text-[26px] font-medium m-0">Contact</h2>
+          <h2 className="text-[21px] md:text-[26px] font-medium m-0">Contact</h2>
         </div>
         <div className="font-sans text-[15px] leading-loose text-ink-2">
           <div>
